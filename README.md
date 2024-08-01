@@ -16,9 +16,9 @@ Network Environment:
   - Cyberops
 - Hypervisor: VMWare Workstation Player
 - OpenVAS Configuration: Updated OpenVAS feed including
- - CVE (Common Vulnerabilities and Exposures)
- - CPE (Common Platform Enumeration)
- - NVT (Network Vulnerability Tests)
- - SCAP (Security Content Automation Protocol)
- - CERT Advisories
- - Compliance Policies
+  - CVE (Common Vulnerabilities and Exposures)
+  - CPE (Common Platform Enumeration)
+  - NVT (Network Vulnerability Tests)
+  - SCAP (Security Content Automation Protocol)
+  - CERT Advisories
+  - Compliance Policies
