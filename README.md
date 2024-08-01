@@ -12,15 +12,13 @@ Network Environment:
 - IP Range: 192.168.244.0/24
 - Devices Scanned: Three guest machines
   - Linux Mint
-Metasploitable
-Cyberops
-Hypervisor: VMWare Workstation Player
-OpenVAS Configuration:
-
-Updated OpenVAS feed including:
-CVE (Common Vulnerabilities and Exposures)
-CPE (Common Platform Enumeration)
-NVT (Network Vulnerability Tests)
-SCAP (Security Content Automation Protocol)
-CERT Advisories
-Compliance Policies
+  - Metasploitable
+  - Cyberops
+- Hypervisor: VMWare Workstation Player
+- OpenVAS Configuration: Updated OpenVAS feed including
+ - CVE (Common Vulnerabilities and Exposures)
+ - CPE (Common Platform Enumeration)
+ - NVT (Network Vulnerability Tests)
+ - SCAP (Security Content Automation Protocol)
+ - CERT Advisories
+ - Compliance Policies
