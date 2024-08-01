@@ -91,7 +91,7 @@ The vulnerability analysis project using OpenVAS successfully identified multipl
 
 By systematically identifying and addressing the detected vulnerabilities, this project highlights the critical role of regular security assessments in safeguarding network environments.
 
-## Watch the video on YouTube or [View on LinkedIn](https://wwhare&utm_medium=member_desktop)
+## Watch the video on YouTube or [View on LinkedIn](link coming soon)
 
 
 [![Link to YouTube Video](https://img.youtube.com/vi/4nbhj_ql2XI/0.jpg)](https://youtu.be/4nbhj_ql2XI)
