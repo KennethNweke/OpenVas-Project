@@ -93,8 +93,8 @@ By systematically identifying and addressing the detected vulnerabilities, this 
 
 ## Watch the video on YouTube or [View on LinkedIn](https://wwhare&utm_medium=member_desktop)
 
-[![Link to YouTube Video](https://img.youtube.com/vi/g3N7bcDuzYU/0.jpg)](https://www.youtube.com/watch?v=g3N7bcDuzYU)
 
+[![Link to YouTube Video](https://img.youtube.com/vi/4nbhj_ql2XI/0.jpg)](https://youtu.be/4nbhj_ql2XI)
 
 
 
