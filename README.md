@@ -46,12 +46,6 @@ During the analysis, OpenVAS was configured to scan for a wide range of vulnerab
   - Found vulnerabilities where attackers could trick users into executing unwanted actions on a web application in which they are authenticated.
  
 
-
-
-
-
-
-
 ## Detailed Results and Mitigation Recommendations:
 
 The scan results provided detailed insights into each detected vulnerability, including descriptions, potential impact, and severity levels. Based on the findings, the following mitigation strategies were recommended:
@@ -97,7 +91,8 @@ The vulnerability analysis project using OpenVAS successfully identified multipl
 
 By systematically identifying and addressing the detected vulnerabilities, this project highlights the critical role of regular security assessments in safeguarding network environments.
 
-## Watch the video on YouTube or [View on LinkedIn](https://www.linkedin.com/posts/kenneth-nweke-4a9456185_unlock-the-power-of-monitoring-with-zabbix-activity-7222518512160772097-0cDa?utm_source=share&utm_medium=member_desktop)
+## Watch the video on YouTube or [View on LinkedIn](https://wwhare&utm_medium=member_desktop)
+
 [![Link to YouTube Video](https://img.youtube.com/vi/g3N7bcDuzYU/0.jpg)](https://www.youtube.com/watch?v=g3N7bcDuzYU)
 
 
